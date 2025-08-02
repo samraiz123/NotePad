@@ -1,4 +1,4 @@
-# go_green
+# NotePad
 
 A new Flutter project.
 
